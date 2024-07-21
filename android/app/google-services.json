@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276973196207",
+    "project_id": "privyr-w13",
+    "storage_bucket": "privyr-w13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276973196207:android:c768653e0eb59b6c5f155a",
+        "android_client_info": {
+          "package_name": "com.example.privyr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI8f0T3Ku9AV15RLcTMMF0Zqea4bowe6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
